@@ -55,16 +55,24 @@ for (const file of files) {
   const raw = fs.readFileSync(sourcePath, "utf8");
 
   const rules = [];
+  
+  // Generate DOMAIN rules
+  for (const item of readSection(raw, "domain")) {
+    rules.push(`DOMAIN,${item}`);
+  }
+  
+
 
   // Generate DOMAIN-SUFFIX rules
   for (const item of readSection(raw, "domainSuffix")) {
     rules.push(`DOMAIN-SUFFIX,${item}`);
   }
-
-  // Generate DOMAIN rules
-  for (const item of readSection(raw, "domain")) {
-    rules.push(`DOMAIN,${item}`);
+  
+  // Generate DOMAIN-KEYWORD rules
+  for (const item of readSection(raw, "domainKeyword")) {
+    rules.push(`DOMAIN-KEYWORD,${item}`);
   }
+
 
   // Generate IP-CIDR rules
   for (const item of readSection(raw, "ipCidr")) {
