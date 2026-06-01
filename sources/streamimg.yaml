@@ -1,0 +1,60 @@
+domainSuffix:
+  # bilibili
+  - biliapi.net
+  - bilibili.com
+  - bilivideo.com
+  - hdslb.com
+
+  # Tencent Video
+  - video.qq.com
+  - i.qq.com
+  - v.qq.com
+
+  # XiGua
+  - ixigua.com
+  - snssdk.com
+
+  # PPLive
+  - pplive.cn
+  - pptv.com
+
+  # Sohu Video
+  - itc.cn
+  - sohu.com
+
+  # Migu Video
+  - cmvideo.cn
+  - miguvideo.com
+
+  # QQ Music
+  - music.qq.com
+  - music.tc.qq.com
+  - qqmusic.qq.com
+  - tencentmusic.com
+  - y.qq.com
+
+  # China Music Corp
+  - kuwo.cn
+  - kugou.com
+
+  # Netease Cloud Music
+  - music.163.com
+  - music.126.net
+
+  # Qianqian Music
+  - qianqian.com
+  - taihe.com
+
+  # Migu Music
+  - migu.cn
+
+  # Xiaomi
+  - ai.xiaomi.com
+  - music.xiaomi.com
+  - dmhmusic.com
+
+domain:
+  - aqqmusic.tc.qq.com
+  - moo.qq.com
+  - mam.netease.comi
+  - api.iplay.163.com
