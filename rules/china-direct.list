@@ -1,8 +1,8 @@
-DOMAIN,qq.com
-DOMAIN,tencent.com
-DOMAIN,alicdn.com
-DOMAIN,myqcloud.com
-DOMAIN,music.163.com
-DOMAIN,wechat.com
-DOMAIN,kugou.com
-DOMAIN,qishui.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,music.163.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,kugou.com
+DOMAIN-SUFFIX,qishui.com
