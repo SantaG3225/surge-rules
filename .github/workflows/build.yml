@@ -1,0 +1,36 @@
+name: Build Surge Rules
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "sources/**"
+      - "scripts/**"
+      - ".github/workflows/build.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build rules
+        run: node scripts/build-rules.mjs
+
+      - name: Commit generated rules
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: build surge rules"
+          file_pattern: "rules/*.list"
