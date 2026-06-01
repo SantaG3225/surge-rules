@@ -1,4 +1,4 @@
-domains:
+domainSuffix:
   - openai.com
   - chatgpt.com
   - anthropic.com
