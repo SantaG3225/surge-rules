@@ -1,0 +1,40 @@
+# OpenAI Core Services
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-KEYWORD,openai
+
+# ChatGPT Web
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN,chat.openai.com
+DOMAIN-KEYWORD,chatgpt
+
+# OpenAI API Platform
+DOMAIN-SUFFIX,platform.openai.com
+DOMAIN-SUFFIX,api.openai.com
+DOMAIN,api.openai.com
+
+# OpenAI Authentication
+DOMAIN-SUFFIX,auth.openai.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-KEYWORD,auth0
+
+# OpenAI CDN & Assets
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,cdn.oaistatic.com
+
+# OpenAI Status & Support
+DOMAIN-SUFFIX,status.openai.com
+DOMAIN-SUFFIX,help.openai.com
+DOMAIN-SUFFIX,academy.openai.com
+
+# OpenAI Labs & Research
+DOMAIN-SUFFIX,labs.openai.com
+DOMAIN-SUFFIX,research.openai.com
+
+# OpenAI Sora
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,sora.chatgpt.com
+DOMAIN-KEYWORD,sora
