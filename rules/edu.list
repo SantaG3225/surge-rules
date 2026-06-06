@@ -1,1 +1,68 @@
+# California State University, Northridge (CSUN)
 DOMAIN-SUFFIX,csun.edu
+DOMAIN,www.csun.edu
+DOMAIN-KEYWORD,csun
+
+# Joliet Junior College (JJC)
+DOMAIN-SUFFIX,jjc.edu
+DOMAIN,www.jjc.edu
+DOMAIN-KEYWORD,jjc
+
+# Community Colleges of Spokane
+DOMAIN-SUFFIX,spokane.edu
+DOMAIN,www.spokane.edu
+DOMAIN-KEYWORD,spokane
+
+# Liberty University
+DOMAIN-SUFFIX,liberty.edu
+DOMAIN,www.liberty.edu
+DOMAIN-KEYWORD,liberty
+
+# Duo MFA Authentication
+DOMAIN-SUFFIX,duo.com
+DOMAIN-SUFFIX,duosecurity.com
+DOMAIN-SUFFIX,duosecurity.net
+DOMAIN,api.duosecurity.com
+DOMAIN-KEYWORD,duo
+DOMAIN-KEYWORD,duosecurity
+
+# Microsoft MFA & Entra ID Authentication
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msauthimages.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msftauthimages.net
+DOMAIN-SUFFIX,msidentity.com
+DOMAIN-SUFFIX,microsoftauthenticator.com
+DOMAIN,login.microsoftonline.com
+DOMAIN,account.activedirectory.windowsazure.com
+DOMAIN-KEYWORD,microsoftonline
+DOMAIN-KEYWORD,msauth
+DOMAIN-KEYWORD,msftauth
+DOMAIN-KEYWORD,authenticator
+
+# Single Sign-On & Identity Services
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-KEYWORD,signin
+DOMAIN-KEYWORD,login
+
+# Learning Management Systems
+DOMAIN-SUFFIX,instructure.com
+DOMAIN-SUFFIX,canvaslms.com
+DOMAIN-SUFFIX,blackboard.com
+DOMAIN-KEYWORD,canvas
+DOMAIN-KEYWORD,blackboard
+
+# Academic Integrity & Online Proctoring
+DOMAIN-SUFFIX,turnitin.com
+DOMAIN-SUFFIX,proctoru.com
+DOMAIN-SUFFIX,honorlock.com
+DOMAIN-KEYWORD,turnitin
+DOMAIN-KEYWORD,proctor
+DOMAIN-KEYWORD,honorlock
+
+# Student Resources
+DOMAIN-SUFFIX,chegg.com
+DOMAIN-KEYWORD,chegg
