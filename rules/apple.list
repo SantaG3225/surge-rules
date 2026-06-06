@@ -1,3 +1,85 @@
+# Apple Core Services
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.cn
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-KEYWORD,apple
+DOMAIN-KEYWORD,icloud
+
+# Apple ID & Authentication
+DOMAIN-SUFFIX,appleid.apple.com
+DOMAIN-SUFFIX,idmsa.apple.com
+DOMAIN-SUFFIX,idms-apple.com
+DOMAIN-SUFFIX,gs.apple.com
+
+# App Store
+DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-KEYWORD,appstore
+DOMAIN-KEYWORD,itunes
+
+# Apple Music
+DOMAIN-SUFFIX,music.apple.com
+DOMAIN-SUFFIX,applemusic.com
+DOMAIN-KEYWORD,applemusic
+
+# Apple TV
+DOMAIN-SUFFIX,tv.apple.com
+DOMAIN-SUFFIX,tv.applemusic.com
+DOMAIN-KEYWORD,appletv
+
+# Apple Arcade & Game Center
+DOMAIN-SUFFIX,gamecenter.apple.com
+DOMAIN-SUFFIX,arcade.apple.com
+DOMAIN-KEYWORD,gamecenter
+
+# iCloud Services
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud-drive.com
+DOMAIN-SUFFIX,mail.me.com
+DOMAIN-KEYWORD,icloud
+
+# Apple Maps
+DOMAIN-SUFFIX,maps.apple.com
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-KEYWORD,mapkit
+
+# FaceTime & iMessage
+DOMAIN-SUFFIX,facetime.apple.com
+DOMAIN-SUFFIX,ess.apple.com
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-KEYWORD,facetime
+
+# Apple Push Notification Service
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,courier-push-apple.com
+DOMAIN-KEYWORD,push
+
+# Siri
+DOMAIN-SUFFIX,siri.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-KEYWORD,siri
+
+# Apple Software Update
+DOMAIN-SUFFIX,swcdn.apple.com
+DOMAIN-SUFFIX,swdownload.apple.com
+DOMAIN-SUFFIX,swscan.apple.com
+DOMAIN-SUFFIX,updates.cdn-apple.com
+DOMAIN-SUFFIX,mesu.apple.com
+
+# TestFlight
+DOMAIN-SUFFIX,testflight.apple.com
+DOMAIN-KEYWORD,testflight
+
+# Apple Developer
+DOMAIN-SUFFIX,developer.apple.com
+DOMAIN-SUFFIX,devimages-cdn.apple.com
+DOMAIN-KEYWORD,developer
